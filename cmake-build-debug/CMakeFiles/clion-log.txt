@@ -1,0 +1,5 @@
+E:\Clion\CLion2020.2.5\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Clion\CLion2020.2.5\Project\STM32_Project\BalanceCar_Mini
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Clion/CLion2020.2.5/Project/STM32_Project/BalanceCar_Mini/cmake-build-debug
