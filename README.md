@@ -1,0 +1,2 @@
+# balance_car_mini
+简易功能的STM32自平衡小车,实现了小车的平衡功能，开发环境为STM32CubeMX+Clion
