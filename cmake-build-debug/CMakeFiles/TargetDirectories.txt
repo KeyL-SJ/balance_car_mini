@@ -1,3 +1,0 @@
-E:/Clion/CLion2020.2.5/Project/STM32_Project/BalanceCar_Mini/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Clion/CLion2020.2.5/Project/STM32_Project/BalanceCar_Mini/cmake-build-debug/CMakeFiles/BalanceCar_Mini.elf.dir
-E:/Clion/CLion2020.2.5/Project/STM32_Project/BalanceCar_Mini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
